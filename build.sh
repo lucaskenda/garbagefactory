@@ -1,0 +1,1 @@
+docker build -t garbagefactory:1.0 .
